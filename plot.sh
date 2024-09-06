@@ -1,6 +1,3 @@
-#!/bin/bash
-# Copyright (C) 2016 Huang MaChi at Chongqing University
-# of Posts and Telecommunications, China.
 
 k=$1
 duration=60
